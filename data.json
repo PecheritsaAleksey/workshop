@@ -1,0 +1,27 @@
+{
+  "title": "Aleksey Pecheritsa | Full Stack JS",
+  "bigLinks": [
+    {
+      "name": "Telegram канал",
+      "url": "https://t.me/pecheritsa_dev"
+    },
+    {
+      "name": "Курс по веб разработке",
+      "url": "https://pecheritsa.com"
+    }
+  ],
+  "smallLinks": [
+    {
+      "name": "Telegram",
+      "url": "https://t.me/pecheritsa_alex"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/PecheritsaAleksey"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/aleksey-pecheritsa-658bb51a9/"
+    }
+  ]
+}
